@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+fbprophet
+joblib
+scikit-learn
+openpyxl
